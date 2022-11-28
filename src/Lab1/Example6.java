@@ -12,6 +12,6 @@ public class Example6 {
         System.out.println("Введите своё отчество:");
         String patronymic = in.nextLine();
         System.out.println("Hello " + lastName + " " + firstName + " " + patronymic);
-
+        in.close();
     }
 }

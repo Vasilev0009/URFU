@@ -9,5 +9,6 @@ public class Example4 {
         int num = in.nextInt();
 
         System.out.println("Your number " + num);
+        in.close();
     }
 }

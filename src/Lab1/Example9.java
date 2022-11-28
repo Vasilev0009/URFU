@@ -10,5 +10,6 @@ public class Example9 {
         System.out.println("Введите количество дней в " + montch);
         int day = in.nextInt();
         System.out.println(montch + " содержит " + day + " день");
+        in.close();
     }
 }

@@ -12,5 +12,6 @@ public class Example8 {
         System.out.println("Какой сегодня день месяца?");
         int day = in.nextInt();
         System.out.println("Сегодня: " + day + " " + montch + " " + dayWeek);
+        in.close();
     }
 }
