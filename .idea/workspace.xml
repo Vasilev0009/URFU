@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1293.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Example9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example12">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example1" />
-      <module name="URFU" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task_1000">
     <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab1.Example10" />
       <module name="URFU" />
@@ -101,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab1.Example15" />
+    <configuration name="Task_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task_1000" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab1.*" />
+          <option name="PATTERN" value="Timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Task_1293" />
+      <module name="URFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_1000" />
+        <item itemvalue="Application.Task_1293" />
         <item itemvalue="Application.Example12" />
         <item itemvalue="Application.Example11" />
         <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example15" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669572140898</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1669647496563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669647496563</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1669647687660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669647687660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
