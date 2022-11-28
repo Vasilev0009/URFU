@@ -1,6 +1,5 @@
 package Lab2;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 // Напишите программу, которая проверяет, делится ли
