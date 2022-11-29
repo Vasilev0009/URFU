@@ -11,7 +11,8 @@ public class Example5 {
         System.out.println("Введите число:");
         int n = in.nextInt();
         n /= 1000;
-            System.out.println("В данном числе :" +n +" тысяч");
+        n %= 10;
+            System.out.println("В ввденом числе количество тысяч равно: " + n);
             in.close();
     }
 }
