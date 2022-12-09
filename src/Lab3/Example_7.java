@@ -18,11 +18,11 @@ public class Example_7 {
                 System.out.println("Введено неверное значение");
             }
         }
-        char alfavit = 'a';
+        char letter = 'a';
         char[] array = new char[arrayLength];
         for (int i = 0; i < array.length; ++i) {
-            array[i] = alfavit;
-            alfavit = (char) (alfavit + 2);
+            array[i] = letter;
+            letter = (char) (letter + 2);
             System.out.print(array[i] + " ");
         }
         System.out.println("\nМассив в обратном порядке:");

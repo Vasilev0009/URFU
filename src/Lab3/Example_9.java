@@ -1,6 +1,7 @@
 package Lab3;
 
 import java.util.Random;
+import java.util.Scanner;
 
 //Напишите программу, в которой создается массив и заполняется случайными числами.
 // Массив отображается в консольном окне.В этом массиве необходимо определить элемент с минимальным значением.
@@ -8,8 +9,11 @@ import java.util.Random;
 // Если элементов с минимальным значением несколько, должны быть выведены индексы всех этих элементов.
 public class Example_9 {
     public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
         Random random = new Random();
-        byte[] bytes = new byte[15];
+        System.out.print("Введите размер массива: ");
+        int arrayLength = in.nextInt();
+        byte[] bytes = new byte[arrayLength];
         random.nextBytes(bytes);
         byte min = bytes[0];
         System.out.println("Элементы массива : ");

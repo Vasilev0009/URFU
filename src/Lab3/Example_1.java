@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Example_1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Введите  целое число  в диапозоне от 1 до 7:");
+        System.out.println("Введите  целое число  в диапазоне от 1 до 7:");
         int day = in.nextInt();
         switch (day) {
             case 1 -> System.out.println("Понедельник");
@@ -20,7 +20,7 @@ public class Example_1 {
             case 5 -> System.out.println("Пятница");
             case 6 -> System.out.println("Суббота");
             case 7 -> System.out.println("Воскресенье");
-            default -> System.out.println("Введенно неверное значение");
+            default -> System.out.println("Введено неверное значение");
         }
         in.close();
     }

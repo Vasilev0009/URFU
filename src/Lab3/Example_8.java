@@ -6,13 +6,13 @@ package Lab3;
 // Отобразите содержимое созданного массива в консольном окне.
 public class Example_8 {
     public static void main(String[] args) {
-        char[] bukvi = new char[10];
-        char alfavit = 'A';
-        for (int i = 0; i < bukvi.length; ++i) {
-            if(alfavit == 'A' || alfavit == 'E' || alfavit == 'I' || alfavit == 'U')  ++alfavit;
-            bukvi[i] = alfavit;
-            ++alfavit;
-            System.out.print(bukvi[i] + " ");
+        char[] letters = new char[10];
+        char letter = 'A';
+        for (int i = 0; i < letters.length; ++i) {
+            if(letter == 'A' || letter == 'E' || letter == 'I' || letter == 'U')  ++letter;
+            letters[i] = letter;
+            ++letter;
+            System.out.print(letters[i] + " ");
         }
     }
 }
