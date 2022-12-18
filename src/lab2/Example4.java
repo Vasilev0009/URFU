@@ -11,7 +11,8 @@ public class Example4 {
         int n = in.nextInt();
         if (5 <= n & n <= 10){
             System.out.println("Число удовлетворяет критериям");
-        }else {
+        }
+        else {
             System.out.println("Число не удовлетворяет критериям");
             in.close();
         }
