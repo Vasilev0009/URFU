@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2022_10_27_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2022_10_27__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Timus/Task_1021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task_1021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Example9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example_10">
-    <configuration name="Example_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_10" />
+  <component name="RunManager" selected="Application.Example9">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab4.Example1" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_4" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab4.Example4" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_5" />
+    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab4.Example8" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_6" />
+    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab4.Example9" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_9" />
+    <configuration name="Example_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.Example_1" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example_10" />
-        <item itemvalue="Application.Example_9" />
-        <item itemvalue="Application.Example_6" />
-        <item itemvalue="Application.Example_5" />
-        <item itemvalue="Application.Example_4" />
+        <item itemvalue="Application.Example9" />
+        <item itemvalue="Application.Example8" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example_1" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670576779181</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1670577272011</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670577272011</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +229,7 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Timus/Task_1021.java</url>
+          <url>file://$PROJECT_DIR$/src/timus/Task_1021.java</url>
           <line>31</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

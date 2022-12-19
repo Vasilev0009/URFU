@@ -26,14 +26,15 @@ public class Example8 {
         while (true) {
             System.out.print("Выполнить обратное преобразование? (y/n)");
             answer = in.next();
-            if (answer.toLowerCase().equals("y")){
+            if (answer.equalsIgnoreCase("y")){
                 for (int i = 0; i < arrayChar.length; i++) {
                     arrayChar[i] = (char) (arrayChar[i] - shift);
                 }
-                System.out.println(Arrays.toString(arrayChar));
+                String charToString = new String(arrayChar);
+                System.out.println(charToString);
                 break;
             }
-            else if (answer.toLowerCase().equals("n")){
+            else if (answer.equalsIgnoreCase("n")){
                 System.out.println("До свидания!");
                 break;
             }

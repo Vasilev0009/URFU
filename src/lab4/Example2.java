@@ -11,7 +11,7 @@ public class Example2 {
 
         for (int i = 1; i <= cathet1; i++){
 
-            for(int k = cathet2; k <=cathet1 ; k++) System.out.print("+");
+            for(int j = cathet2; j <=cathet1 ; j++) System.out.print("+");
             cathet2 = cathet2 - 1;
             System.out.println(" ");
         }

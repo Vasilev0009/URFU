@@ -13,9 +13,9 @@ public class Example4 {
 
         for (int i = 0; i < cathet1; i++){
 
-            for(int k = cathet2 - 1; k <=cathet1-1 ; k++){
-                triangle[i][k] = '+';
-                System.out.print(triangle[i][k]);
+            for(int j = cathet2 - 1; j <=cathet1-1 ; j++){
+                triangle[i][j] = '+';
+                System.out.print(triangle[i][j]);
             }
             cathet2 = cathet2 - 1;
             System.out.println(" ");
