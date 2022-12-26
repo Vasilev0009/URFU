@@ -12,9 +12,9 @@ public class Example3 {
         int[][] rectangle = new int[length][width];
 
         for(int i=0; i< width; ++i){
-            for(int k = 0; k < length; ++k){
-                rectangle[k][i] = 2;
-                System.out.print(rectangle[k][i]);
+            for(int j = 0; j < length; ++j){
+                rectangle[j][i] = 2;
+                System.out.print(rectangle[j][i]);
             }
             System.out.println(" ");
         }
