@@ -5,9 +5,9 @@ package lab5;
 //метод позволяет вывести в консольное окно символ (значение поля) и его код.
 public class Example1 {
 
-    private char ch;//закрытое символьное поле
+    private char ch;
 
-    public void setCh(char ch) {//Метод позволяет присвоить значение полю ch
+    public void setCh(char ch) {
         this.ch = ch;
     }
     public int getCh() {//метод при вызове возвращает результатом код символа

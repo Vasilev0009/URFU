@@ -8,12 +8,10 @@ package lab5;
 //выводиться все символы от ‘A’ до ‘D’ включительно.
 public class Example2 {
     private char ch1, ch2;// объявляем 2 символьных поля
-
     public void setChar(char ch1, char ch2) {
         this.ch1 = ch1;
         this.ch2 = ch2;
     }
-
     public void setPrint(){
         if (ch1 > ch2){
             for(;ch2 <= ch1; ch2++) System.out.print(ch2 + " ");
