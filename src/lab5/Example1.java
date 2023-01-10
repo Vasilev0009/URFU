@@ -3,17 +3,17 @@ package lab5;
 //и три открытых метода. Один из методов позволяет присвоить значение полю.
 //Еще один метод при вызове возвращает результатом код символа. Третий
 //метод позволяет вывести в консольное окно символ (значение поля) и его код.
-public class Example1 {
+class Example1 {
 
     private char ch;
 
-    public void setCh(char ch) {
+    protected void setCh(char ch) {
         this.ch = ch;
     }
-    public int getCh() {//метод при вызове возвращает результатом код символа
+    protected int getCh() {//метод при вызове возвращает результатом код символа
         return ch;
     }
-    public void setPrint(){
+    protected void setPrint(){
         System.out.println( "Символ : " + ch + " имеет код: " + getCh());
     }
 }
