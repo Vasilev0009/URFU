@@ -34,7 +34,6 @@ public class Example4 {
                         System.out.println(" Число "+ number);
                     }
                 }catch(EOFException e){
-                    System.out.println("End of file");
                 }
                 write.flush();
                 write.close();
