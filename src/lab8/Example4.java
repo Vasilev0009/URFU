@@ -33,7 +33,9 @@ public class Example4 {
                         write.writeFloat(number); //чтение-запись из одного файла в другой
                         System.out.println(" Число "+ number);
                     }
-                }catch(EOFException e){}
+                }catch(EOFException e){
+                    System.out.println("End of file");
+                }
                 write.flush();
                 write.close();
                 read.close();
