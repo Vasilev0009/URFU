@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2022_10_27_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2022_10_27__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Timus/Task_1021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/Task_1021.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6755c2c0-c193-4f47-bcca-f08c91c61b33" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.Example_10">
-    <configuration name="Example_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_10" />
+}]]></component>
+  <component name="RunManager" selected="Application.Example4">
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.Example2" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_4" />
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.Example3" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_5" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.Example4" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_6" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Example_9" />
+    <configuration name="TEST1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TEST1" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example_10" />
-        <item itemvalue="Application.Example_9" />
-        <item itemvalue="Application.Example_6" />
-        <item itemvalue="Application.Example_5" />
-        <item itemvalue="Application.Example_4" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.TEST1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
       </list>
     </recent_temporary>
   </component>
