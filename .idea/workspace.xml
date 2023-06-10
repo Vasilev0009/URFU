@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/lab9/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task1/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task1/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task1/example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task2/CreateJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task2/ParserJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task2/example-json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task3/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task3/NewsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task4/ReadExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task4/WriteExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/task4/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/task1/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab8/task1/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/URFU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/URFU.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +56,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Repairer/Desktop",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "last_opened_file_path": "C:/Users/For URFU/.m2/repository/json-simple-1.1.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3632184",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -57,13 +75,13 @@
       <recent name="C:\Users\Repairer\IdeaProjects\URFU\src\lab8\Task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task3">
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab8.task1.Example4" />
+  <component name="RunManager" selected="Application.ReadExcelFileExample">
+    <configuration name="LinkParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10.task3.LinkParser" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab8.task1.*" />
+          <option name="PATTERN" value="lab10.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab8.task1.Example8" />
+    <configuration name="NewsParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10.task3.NewsParser" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab8.task1.*" />
+          <option name="PATTERN" value="lab10.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab9.task1" />
+    <configuration name="ParserJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10.task2.ParserJSON" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab9.*" />
+          <option name="PATTERN" value="lab10.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab9.task2" />
+    <configuration name="ReadExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10.task4.ReadExcelFileExample" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab9.*" />
+          <option name="PATTERN" value="lab10.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab9.task3" />
+    <configuration name="WriteExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab10.task4.WriteExcelFileExample" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab9.*" />
+          <option name="PATTERN" value="lab10.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task3" />
-        <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example8" />
+        <item itemvalue="Application.ReadExcelFileExample" />
+        <item itemvalue="Application.WriteExcelFileExample" />
+        <item itemvalue="Application.NewsParser" />
+        <item itemvalue="Application.LinkParser" />
+        <item itemvalue="Application.ParserJSON" />
       </list>
     </recent_temporary>
   </component>
@@ -163,14 +181,7 @@
       <option name="project" value="LOCAL" />
       <updated>1669873038354</updated>
     </task>
-    <task id="LOCAL-00004" summary="commit">
-      <created>1686406272534</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1686406272534</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +212,11 @@
           <url>file://$PROJECT_DIR$/src/lab9/task1.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab10/task1/XmlParser.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
