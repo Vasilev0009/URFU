@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.*;
 
@@ -11,10 +11,10 @@ public class Example9 {
             // создание потока для чтения и записи с нужной кодировкой
             br = new BufferedReader(
                     new InputStreamReader(
-                            new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt"),"cp1251"));
+                            new FileInputStream("./src/lab8/Task1/MyFile1.txt"),"cp1251"));
             bw = new BufferedWriter(
                     new OutputStreamWriter(
-                            new FileOutputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile2.txt"),"cp1251"));
+                            new FileOutputStream("./src/lab8/Task1/MyFile2.txt"),"cp1251"));
             // Переписывание информации из одного файла в другой
             int lineCount = 0;
             String s;
@@ -34,3 +34,7 @@ public class Example9 {
         }
     }
 }
+
+//Пример 9. Чтение из одного файла и запись в другой файл данных
+//построчно с использованием буферизации символьных потоков основанных на
+//байтовых файловых потоках.

@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.*;
 import java.net.URL;
@@ -20,7 +20,7 @@ public class Example8 {
     public static void main(String[] args) {
         try {
             // С потоком связан файл
-            InputStream inFile = new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt"); // Байтовый поток
+            InputStream inFile = new FileInputStream("./src/lab8/Task1/MyFile1.txt"); // Байтовый поток
             Reader rFile = new InputStreamReader(inFile, "cp1251"); // передается русская кодировка
 
             readAllByByte(rFile);
@@ -49,3 +49,6 @@ public class Example8 {
         }
     }
 }
+//Пример 8. Прочитать и вывести на экран информацию из трех источников: файла
+//на диске, интернет-страницы и массива данных типа byte. Указать кодировку,
+//поддерживающую кириллицу.

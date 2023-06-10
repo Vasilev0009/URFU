@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.ByteArrayInputStream;
 import java.io.FileInputStream;
@@ -21,7 +21,7 @@ public class Example2 {
 
     public static void main(String[] args) throws IOException {
         try {  //С потоком связан файл
-            InputStream inFile = new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt");
+            InputStream inFile = new FileInputStream("./src/lab8/Task1/MyFile1.txt");
             readALLByByte(inFile);
             System.out.print("\n\n\n");
             inFile.close();

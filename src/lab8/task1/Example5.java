@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.*;
 import java.util.Scanner;
@@ -7,8 +7,8 @@ public class Example5 {
     public static void main(String[] args) {
 
         Scanner sc= new Scanner(System.in);
-        System.out.print("Введите имя файла => "); String
-                fname=sc.nextLine();
+        System.out.print("Введите имя файла => ");
+        String fname = sc.nextLine();
         try{
 // Создается файл
             File f1=new File(fname);
@@ -39,3 +39,6 @@ public class Example5 {
         }
     }
 }
+
+//Пример 5. Создать файл на диске, ввести заданное с клавиатуры
+//количество строк текста и записать их в файл в формате UTF-8.

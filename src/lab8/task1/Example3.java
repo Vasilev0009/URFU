@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -20,25 +20,14 @@ public class Example3 {
     }
 
     public static void main(String[] args) throws IOException {
-        String file = "C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt";
-        InputStream inFile = null; //переменная объявляется до секции try, чтобы не ограничивать область видимости
-        try{
-            inFile = new FileInputStream(file);
+        String file = "./src/lab8/Task1/MyFile1.txt";
+        //переменная объявляется до секции try, чтобы не ограничивать область видимости
+        try (InputStream inFile = new FileInputStream(file)) {
             readAllByArray(inFile);
-        }
-        catch (IOException e){
-            System.out.println("Ошибка открытия-закрытия файла "+ file + e);
-        }
-        finally {  //корректное закрытие потока
-            if(inFile !=null){
-                try{
-                    inFile.close();
-                }
-                catch (IOException ignore){ //NOP - ничего не делать
-                }
-            }
-
-        }
+        } catch (IOException e) {
+            System.out.println("Ошибка открытия-закрытия файла " + file + e);
+        }  //корректное закрытие потока
+        //NOP - ничего не делать
 
     }
 }

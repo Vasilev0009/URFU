@@ -1,4 +1,4 @@
-package lab8.Task3;
+package lab8.task3;
 
 import java.io.*;
 import java.util.Objects;
@@ -8,8 +8,8 @@ public class Task3 {
     public static void main(String[] args) throws IOException {
         String sogl = "бвгджзйклмнпрстфхцчшщ";
 
-        InputStream inFile = new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\src\\lab8\\Task3\\in.txt");
-        FileWriter outFile = new FileWriter("C:\\Users\\For URFU\\IdeaProjects\\URFU\\src\\lab8\\Task3\\out.txt");
+        InputStream inFile = new FileInputStream("./src/lab8/Task3/in.txt");
+        FileWriter outFile = new FileWriter("./src/lab8/Task3/out.txt");
         Scanner in = new Scanner(inFile);
         int lineCounter = 0;
         while (in.hasNextLine()) {

@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.File;
 
@@ -6,7 +6,7 @@ public class Example1 {
     public static void main(String[] args) {
         try {
             // Создание файла в текущей папке (где расположен файл Example1.java)
-            File file1 = new File("MyFile1.txt");
+            File file1 = new File("./src/lab8/task1/MyFile1.txt");
             file1.createNewFile();
             if(file1.exists()){
                 System.out.println("Создан!!!");

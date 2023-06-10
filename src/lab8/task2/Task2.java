@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task2;
 
 import java.io.*;
 import java.util.Arrays;
@@ -9,10 +9,10 @@ public class Task2 {
         Writer out;
 
         try {
-            InputStream inFile = new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt");
+            InputStream inFile = new FileInputStream("./src/lab8/Task2/in.txt");
             out = new BufferedWriter(
                     new OutputStreamWriter(
-                            new FileOutputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile2.txt")));
+                            new FileOutputStream("./src/lab8/Task2/out.txt")));
             Scanner in = new Scanner(inFile);
             in.nextLine();// Пропускаем первую строку
             String str = in.nextLine();
@@ -20,7 +20,7 @@ public class Task2 {
                for( int i = 0; i < num.length; i++){
                    if (num[i] >= 0) {
                        out.write(num[i] + " ");
-                       System.out.println(num[i]);
+                       System.out.print(num[i] + " ");
                    }
                }
             out.close();

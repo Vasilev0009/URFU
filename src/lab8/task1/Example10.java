@@ -1,4 +1,4 @@
-package lab8;
+package lab8.task1;
 
 import java.io.*;
 
@@ -11,9 +11,9 @@ public class Example10 {
             //создание потока
             br = new BufferedReader(
                     new InputStreamReader(
-                            new FileInputStream("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile1.txt"),"cp1251"));
+                            new FileInputStream("./src/lab8/Task1/MyFile1.txt"),"cp1251"));
 
-            out = new PrintWriter("C:\\Users\\For URFU\\IdeaProjects\\URFU\\MyFile2.txt", "cp1251");
+            out = new PrintWriter("./src/lab8/Task1/MyFile2.txt", "cp1251");
             // Переписываем информация из одного файла в другой
             int lineCout = 0;
             String s;
@@ -33,3 +33,6 @@ public class Example10 {
         }
     }
 }
+
+//Пример 10. Выполнить чтение из одного файла и запись в дру- гой
+//файл с использованием класса PrintWriter.
