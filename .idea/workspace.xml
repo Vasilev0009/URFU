@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/lab9/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab8/task1/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab8/task1/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9/task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,35 +57,9 @@
       <recent name="C:\Users\Repairer\IdeaProjects\URFU\src\lab8\Task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task1">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab8.task1.Example3" />
-      <module name="URFU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab8.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.task3">
     <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab8.task1.Example4" />
-      <module name="URFU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab8.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab8.task1.Example6" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
@@ -122,13 +97,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab9.task2" />
+      <module name="URFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab9.task3" />
+      <module name="URFU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669873038354</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1686406272534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686406272534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
