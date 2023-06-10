@@ -1,6 +1,7 @@
 package lab8.task1;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 public class Example4 {
@@ -11,7 +12,7 @@ public class Example4 {
                 // Создание исходного файла numIsh.txt и запись в него чисел типа float
                 File file1=new File("./src/lab8/Task1/My/numIsh.txt");
                 file1.createNewFile();
-                Scanner scanner = new Scanner(System.in,"Cp1251");
+                Scanner scanner = new Scanner(System.in, StandardCharsets.UTF_8);
                 DataOutputStream write = new DataOutputStream(new FileOutputStream(file1.getAbsolutePath()));
                 System.out.println("Сколько вещественных чисел записать в файл?");
                     int count = scanner.nextInt();
@@ -33,6 +34,7 @@ public class Example4 {
                         write.writeFloat(number); //чтение-запись из одного файла в другой
                         System.out.println(" Число "+ number);
                     }
+
                 }catch(EOFException e){
                     System.out.println("Error");
                 }
