@@ -1,4 +1,4 @@
-package lab10.task3;
+package lab10.Example;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

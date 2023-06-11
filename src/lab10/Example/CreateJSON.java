@@ -1,4 +1,4 @@
-package lab10.task2;
+package lab10.Example;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
