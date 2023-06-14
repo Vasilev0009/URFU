@@ -9,14 +9,14 @@ public class Example3 {
                 " новый список, содержащий Только те строки, которые начинаются с большой Буквы.";
 
         List<String> strings = List.of(string.split(" "));
-        System.out.println("\n" + "Строка после сплитования: " + "\n");
+        System.out.println("\nСтрока после сплитования:\n");
 
         for(String e : strings){
             System.out.println(e);
         }
         List<String> stringsAfter = filterCapitalizedStrings(strings);
 
-        System.out.println("\n" + "Строка после преобразования: " + "\n");
+        System.out.println("\nСтрока после преобразования:\n");
         for(String e: stringsAfter){
             System.out.println(e);
         }
