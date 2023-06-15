@@ -2,17 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="add task">
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab12/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Example6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task4/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task4/Tail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task6/Task6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task6/Task6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task7/TaskMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/task7/TaskProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/Example5NotUsed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1023.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab12/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab12/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab12/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab12/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab12/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab13/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab13/Example5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +93,13 @@
       <recent name="lab10.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example10">
-    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab12.Example10" />
+  <component name="RunManager" selected="Application.TaskMain">
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.task4.LinkedList" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab12.*" />
+          <option name="PATTERN" value="lab11.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab12.Example6" />
+    <configuration name="Tail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.task4.Tail" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab12.*" />
+          <option name="PATTERN" value="lab11.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab12.Example7" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.Task3" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab12.*" />
+          <option name="PATTERN" value="lab11.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab12.Example8" />
+    <configuration name="TaskMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.task7.TaskMain" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab12.*" />
+          <option name="PATTERN" value="lab11.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab12.Example9" />
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab11.task2" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab12.*" />
+          <option name="PATTERN" value="lab11.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.Example9" />
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.TaskMain" />
+        <item itemvalue="Application.Tail" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.task2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +206,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686428614059</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add task">
+      <created>1686770421798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686770421798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add task">
+      <created>1686770501047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686770501047</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add task">
+      <created>1686843552646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686843552646</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +294,31 @@
           <url>file://$PROJECT_DIR$/src/lab12/Example8.java</url>
           <line>6</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab13/Example5NotUsed.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab11/Example4.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab11/Example4.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab11/Example4.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab11/Example4.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
