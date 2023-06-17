@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3210445-46ab-4348-9ce7-841ae070f2a3" name="Changes" comment="add task">
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Example6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task4/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task4/Tail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task6/Task6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task6/Task6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task7/TaskMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/task7/TaskProject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/lab13/Example5NotUsed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Task1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1007.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/timus/Task_1023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1607.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1935.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab11/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab11/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab11/task4/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab11/task4/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab11/task6/Task6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab11/task6/Task6_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab12/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab12/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab12/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab12/Example7.java" afterDir="false" />
@@ -93,13 +88,13 @@
       <recent name="lab10.task3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaskMain">
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab11.task4.LinkedList" />
+  <component name="RunManager" selected="Application.Task_1255">
+    <configuration name="Task_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1001" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab11.task4.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab11.task4.Tail" />
+    <configuration name="Task_1005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1005" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab11.task4.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab11.Task3" />
+    <configuration name="Task_1255" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1255" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab11.task6.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab11.task7.TaskMain" />
+    <configuration name="Task_1502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1502" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab11.task7.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab11.task2" />
+    <configuration name="Task_1935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Task_1935" />
       <module name="URFU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab11.task6.*" />
+          <option name="PATTERN" value="timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskMain" />
-        <item itemvalue="Application.Tail" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.Task_1255" />
+        <item itemvalue="Application.Task_1502" />
+        <item itemvalue="Application.Task_1935" />
+        <item itemvalue="Application.Task_1005" />
+        <item itemvalue="Application.Task_1001" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686843552646</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add task">
+      <created>1686856262088</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686856262088</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,6 +321,36 @@
           <url>file://$PROJECT_DIR$/src/lab11/Example4.java</url>
           <line>4</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab11/Example1.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab11/task4/LinkedList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timus/Task_1255.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timus/Task_1255.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timus/Task_1255.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/timus/Task_1255.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
